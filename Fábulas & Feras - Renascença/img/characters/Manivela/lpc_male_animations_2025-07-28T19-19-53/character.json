@@ -1,0 +1,266 @@
+{
+  "bodyTypeName": "male",
+  "url": "https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_lavender&head=Alien_lavender&sex=male&eye_color=Eye_Color_gray&clothes=Longsleeve_brown&vest=Vest_gray_striped&jacket=Frock_coat_leather&legs=Armour_steel&shoes=Basic_Shoes_brown&hair=none_Balding&expression=Neutral_lavender&hat=Simple_Armet_steel&accessory=Helmet_wings_steel&armour=none_Leather&cape=Solid_orange&arms=none_Armour&neck=Scarf_red&shoulders=Mantal_orange&jacket_trim=Frock_coat_lapel_gold&weapon=none_Gnarled_staff",
+  "spritesheets": "https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/spritesheets/",
+  "version": 1,
+  "datetime": "28/07/2025, 16:16:59",
+  "credits": [
+    {
+      "fileName": "body/bodies/male/lavender.png",
+      "licenses": "OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0",
+      "authors": "bluecarrot16,JaidynReiman,Benjamin K. Smith (BenCreating),Evert,Eliza Wyatt (ElizaWy),TheraHedwig,MuffinElZangano,Durrani,Johannes Sjölund (wulax),Stephen Challener (Redshrike)",
+      "urls": "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,https://opengameart.org/content/lpc-male-jumping-animation-by-durrani,https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle,https://opengameart.org/content/lpc-revised-character-basics,https://opengameart.org/content/lpc-be-seated,https://opengameart.org/content/lpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads,https://opengameart.org/content/lpc-jump-expanded,https://opengameart.org/content/lpc-character-bases",
+      "notes": "see details at https://opengameart.org/content/lpc-character-bases; 'Thick' Male Revised Run/Climb by JaidynReiman (based on ElizaWy's LPC Revised)"
+    },
+    {
+      "fileName": "head/heads/alien/adult/lavender.png",
+      "licenses": "OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0",
+      "authors": "bluecarrot16,Benjamin K. Smith (BenCreating),Nila122",
+      "urls": "https://opengameart.org/content/drakes-and-lizardfolk,https://opengameart.org/content/lpc-character-bases",
+      "notes": "based on lizard originally by Nila122, modified by BenCreating, further edited by bluecarrot16. Nila122 gave blanket permission to MedicineStorm to use Nila122's LPC assets under OGA-BY 3.0 (where original or derived only from other works under OGA-BY)."
+    },
+    {
+      "fileName": "head/faces/undefined/neutral/lavender.png",
+      "licenses": "OGA-BY 3.0",
+      "authors": "JaidynReiman,ElizaWy,Stephen Challener (Redshrike)",
+      "urls": "https://github.com/ElizaWy/LPC/tree/main/Characters/Head,https://opengameart.org/content/ulpc-expanded-expressions",
+      "notes": "Original by Redshrike, Expressions by ElizaWy, mapped to all frames by JaidynReiman"
+    },
+    {
+      "fileName": "eyes/human/undefined/neutral/gray.png",
+      "licenses": "OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0",
+      "authors": "JaidynReiman,Matthew Krohn (makrohn),Stephen Challener (Redshrike)",
+      "urls": "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+      "notes": "original by Redshrike, mapped to all frames by Matthew Krohn & JaidynReiman"
+    },
+    {
+      "fileName": "hat/helmet/armet_simple/adult/steel.png",
+      "licenses": "OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0",
+      "authors": "bluecarrot16,Johannes Sjölund (wulax)",
+      "urls": "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,https://opengameart.org/content/lpc-expanded-hats-facial-helmets",
+      "notes": ""
+    },
+    {
+      "fileName": "hat/accessory/wings/fg/adult/steel.png",
+      "licenses": "CC0",
+      "authors": "bluecarrot16,DCSS authors",
+      "urls": "http://opengameart.org/content/dungeon-crawl-32x32-tiles,https://opengameart.org/content/cc0-headgear-icons,https://opengameart.org/content/lpc-helmets-mega-pack,https://opengameart.org/content/lpc-expanded-hats-facial-helmets",
+      "notes": ""
+    },
+    {
+      "fileName": "hat/accessory/wings/bg/adult/steel.png",
+      "licenses": "CC0",
+      "authors": "bluecarrot16,DCSS authors",
+      "urls": "http://opengameart.org/content/dungeon-crawl-32x32-tiles,https://opengameart.org/content/cc0-headgear-icons,https://opengameart.org/content/lpc-helmets-mega-pack,https://opengameart.org/content/lpc-expanded-hats-facial-helmets",
+      "notes": ""
+    },
+    {
+      "fileName": "neck/scarf/red.png",
+      "licenses": "OGA-SA 3.0,CC-BY-SA 3.0,GPL 2.0,GPL 3.0",
+      "authors": "Nila122,Johannes Sjölund (wulax),Stephen Challener (Redshrike)",
+      "urls": "https://opengameart.org/content/more-lpc-clothes-and-hair",
+      "notes": ""
+    },
+    {
+      "fileName": "shoulders/mantal/male/orange.png",
+      "licenses": "CC-BY-SA 3.0",
+      "authors": "bluecarrot16",
+      "urls": "https://opengameart.org/content/lpc-pirates",
+      "notes": ""
+    },
+    {
+      "fileName": "torso/clothes/longsleeve/longsleeve/male/brown.png",
+      "licenses": "OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0",
+      "authors": "JaidynReiman,Johannes Sjölund (wulax)",
+      "urls": "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,http://opengameart.org/content/lpc-clothing-updates",
+      "notes": "original by wulax, recolors and cleanup by JaidynReiman, further recolors by bluecarrot16"
+    },
+    {
+      "fileName": "torso/jacket/frock/male/leather.png",
+      "licenses": "CC-BY-SA 3.0",
+      "authors": "bluecarrot16",
+      "urls": "https://opengameart.org/content/lpc-pirates",
+      "notes": ""
+    },
+    {
+      "fileName": "torso/jacket/trim/frock_lapel/gold.png",
+      "licenses": "OGA-BY 3.0",
+      "authors": "bluecarrot16",
+      "urls": "https://opengameart.org/content/lpc-pirates",
+      "notes": ""
+    },
+    {
+      "fileName": "torso/clothes/vest/male/gray_striped.png",
+      "licenses": "CC-BY-SA 3.0,GPL 3.0",
+      "authors": "Michael Whitlock (bigbeargames),bluecarrot16,Thane Brimhall (pennomi),laetissima",
+      "urls": "https://opengameart.org/content/lpc-2-characters",
+      "notes": ""
+    },
+    {
+      "fileName": "cape/solid/female/orange.png",
+      "licenses": "OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0",
+      "authors": "bluecarrot16,JaidynReiman",
+      "urls": "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more,https://opengameart.org/content/lpc-roman-armor,http://opengameart.org/content/lpc-clothing-updates",
+      "notes": ""
+    },
+    {
+      "fileName": "cape/solid_behind/orange.png",
+      "licenses": "OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0",
+      "authors": "Nila122,JaidynReiman",
+      "urls": "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more,https://opengameart.org/content/lpc-roman-armor",
+      "notes": ""
+    },
+    {
+      "fileName": "legs/armour/plate/male/steel.png",
+      "licenses": "OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0",
+      "authors": "bluecarrot16,JaidynReiman,Michael Whitlock (bigbeargames),Matthew Krohn (makrohn),Johannes Sjölund (wulax)",
+      "urls": "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+      "notes": "reduced to 7 colors an adapted to v3 bases by bluecarrot16, climb/jump/sit/emotes by JaidynReiman"
+    },
+    {
+      "fileName": "feet/shoes/basic/male/brown.png",
+      "licenses": "OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0",
+      "authors": "JaidynReiman,bluecarrot16,Johannes Sjölund (wulax)",
+      "urls": "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,http://opengameart.org/content/lpc-clothing-updates,https://opengameart.org/content/lpc-expanded-socks-shoes",
+      "notes": "original by wulax, edited for v3 base by bluecarrot16, Jump/Sit/Emote/Run/Revised Combat by JaidynReiman"
+    }
+  ],
+  "layers": [
+    {
+      "fileName": "cape/solid_behind/orange.png",
+      "zPos": 5,
+      "parentName": "cape",
+      "name": "Solid",
+      "variant": "orange",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering"
+    },
+    {
+      "fileName": "body/bodies/male/lavender.png",
+      "zPos": 10,
+      "parentName": "body",
+      "name": "Body_color",
+      "variant": "lavender",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash"
+    },
+    {
+      "fileName": "feet/shoes/basic/male/brown.png",
+      "zPos": 15,
+      "parentName": "shoes",
+      "name": "Basic_Shoes",
+      "variant": "brown",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash"
+    },
+    {
+      "fileName": "legs/armour/plate/male/steel.png",
+      "zPos": 20,
+      "parentName": "legs",
+      "name": "Armour",
+      "variant": "steel",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,climb,idle,jump,sit,emotes"
+    },
+    {
+      "fileName": "torso/clothes/longsleeve/longsleeve/male/brown.png",
+      "zPos": 35,
+      "parentName": "clothes",
+      "name": "Longsleeve",
+      "variant": "brown",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering"
+    },
+    {
+      "fileName": "torso/clothes/vest/male/gray_striped.png",
+      "zPos": 45,
+      "parentName": "vest",
+      "name": "Vest",
+      "variant": "gray striped",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering"
+    },
+    {
+      "fileName": "torso/jacket/frock/male/leather.png",
+      "zPos": 55,
+      "parentName": "jacket",
+      "name": "Frock_coat",
+      "variant": "leather",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering"
+    },
+    {
+      "fileName": "torso/jacket/trim/frock_lapel/gold.png",
+      "zPos": 58,
+      "parentName": "jacket_trim",
+      "name": "Frock_coat_lapel",
+      "variant": "gold",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering"
+    },
+    {
+      "fileName": "shoulders/mantal/male/orange.png",
+      "zPos": 75,
+      "parentName": "shoulders",
+      "name": "Mantal",
+      "variant": "orange",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering"
+    },
+    {
+      "fileName": "cape/solid/female/orange.png",
+      "zPos": 85,
+      "parentName": "cape",
+      "name": "Solid",
+      "variant": "orange",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering"
+    },
+    {
+      "fileName": "neck/scarf/red.png",
+      "zPos": 90,
+      "parentName": "neck",
+      "name": "Scarf",
+      "variant": "red",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering"
+    },
+    {
+      "fileName": "head/heads/alien/adult/lavender.png",
+      "zPos": 100,
+      "parentName": "head",
+      "name": "Alien",
+      "variant": "lavender",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash"
+    },
+    {
+      "fileName": "head/faces/undefined/neutral/lavender.png",
+      "zPos": 101,
+      "parentName": "expression",
+      "name": "Neutral",
+      "variant": "lavender",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash"
+    },
+    {
+      "fileName": "eyes/human/undefined/neutral/gray.png",
+      "zPos": 105,
+      "parentName": "eye_color",
+      "name": "Eye_Color",
+      "variant": "gray",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash"
+    },
+    {
+      "fileName": "hat/accessory/wings/bg/adult/steel.png",
+      "zPos": 125,
+      "parentName": "accessory",
+      "name": "Helmet_wings",
+      "variant": "steel",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash"
+    },
+    {
+      "fileName": "hat/helmet/armet_simple/adult/steel.png",
+      "zPos": 130,
+      "parentName": "hat",
+      "name": "Simple_Armet",
+      "variant": "steel",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash"
+    },
+    {
+      "fileName": "hat/accessory/wings/fg/adult/steel.png",
+      "zPos": 139,
+      "parentName": "accessory",
+      "name": "Helmet_wings",
+      "variant": "steel",
+      "supportedAnimations": "spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash"
+    }
+  ]
+}

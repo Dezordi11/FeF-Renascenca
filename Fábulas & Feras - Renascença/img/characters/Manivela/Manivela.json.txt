@@ -1,0 +1,266 @@
+{
+  bodyTypeName male,
+  url httpsliberatedpixelcup.github.ioUniversal-LPC-Spritesheet-Character-Generator#body=Body_color_lavender&head=Alien_lavender&sex=male&eye_color=Eye_Color_gray&clothes=Longsleeve_brown&vest=Vest_gray_striped&jacket=Frock_coat_leather&legs=Armour_steel&shoes=Basic_Shoes_brown&hair=none_Balding&expression=Neutral_lavender&hat=Simple_Armet_steel&accessory=Helmet_wings_steel&armour=none_Leather&cape=Solid_orange&arms=none_Armour&neck=Scarf_red&shoulders=Mantal_orange&jacket_trim=Frock_coat_lapel_gold&weapon=none_Gnarled_staff,
+  spritesheets httpsliberatedpixelcup.github.ioUniversal-LPC-Spritesheet-Character-Generatorspritesheets,
+  version 1,
+  datetime 28072025, 161659,
+  credits [
+    {
+      fileName bodybodiesmalelavender.png,
+      licenses OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0,
+      authors bluecarrot16,JaidynReiman,Benjamin K. Smith (BenCreating),Evert,Eliza Wyatt (ElizaWy),TheraHedwig,MuffinElZangano,Durrani,Johannes Sjölund (wulax),Stephen Challener (Redshrike),
+      urls httpsopengameart.orgcontentliberated-pixel-cup-lpc-base-assets-sprites-map-tiles,httpsopengameart.orgcontentlpc-medieval-fantasy-character-sprites,httpsopengameart.orgcontentlpc-male-jumping-animation-by-durrani,httpsopengameart.orgcontentlpc-runcycle-and-diagonal-walkcycle,httpsopengameart.orgcontentlpc-revised-character-basics,httpsopengameart.orgcontentlpc-be-seated,httpsopengameart.orgcontentlpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads,httpsopengameart.orgcontentlpc-jump-expanded,httpsopengameart.orgcontentlpc-character-bases,
+      notes see details at httpsopengameart.orgcontentlpc-character-bases; 'Thick' Male Revised RunClimb by JaidynReiman (based on ElizaWy's LPC Revised)
+    },
+    {
+      fileName headheadsalienadultlavender.png,
+      licenses OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0,
+      authors bluecarrot16,Benjamin K. Smith (BenCreating),Nila122,
+      urls httpsopengameart.orgcontentdrakes-and-lizardfolk,httpsopengameart.orgcontentlpc-character-bases,
+      notes based on lizard originally by Nila122, modified by BenCreating, further edited by bluecarrot16. Nila122 gave blanket permission to MedicineStorm to use Nila122's LPC assets under OGA-BY 3.0 (where original or derived only from other works under OGA-BY).
+    },
+    {
+      fileName headfacesundefinedneutrallavender.png,
+      licenses OGA-BY 3.0,
+      authors JaidynReiman,ElizaWy,Stephen Challener (Redshrike),
+      urls httpsgithub.comElizaWyLPCtreemainCharactersHead,httpsopengameart.orgcontentulpc-expanded-expressions,
+      notes Original by Redshrike, Expressions by ElizaWy, mapped to all frames by JaidynReiman
+    },
+    {
+      fileName eyeshumanundefinedneutralgray.png,
+      licenses OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0,
+      authors JaidynReiman,Matthew Krohn (makrohn),Stephen Challener (Redshrike),
+      urls httpsopengameart.orgcontentliberated-pixel-cup-lpc-base-assets-sprites-map-tiles,
+      notes original by Redshrike, mapped to all frames by Matthew Krohn & JaidynReiman
+    },
+    {
+      fileName hathelmetarmet_simpleadultsteel.png,
+      licenses OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0,
+      authors bluecarrot16,Johannes Sjölund (wulax),
+      urls httpsopengameart.orgcontentlpc-medieval-fantasy-character-sprites,httpsopengameart.orgcontentlpc-expanded-hats-facial-helmets,
+      notes 
+    },
+    {
+      fileName hataccessorywingsfgadultsteel.png,
+      licenses CC0,
+      authors bluecarrot16,DCSS authors,
+      urls httpopengameart.orgcontentdungeon-crawl-32x32-tiles,httpsopengameart.orgcontentcc0-headgear-icons,httpsopengameart.orgcontentlpc-helmets-mega-pack,httpsopengameart.orgcontentlpc-expanded-hats-facial-helmets,
+      notes 
+    },
+    {
+      fileName hataccessorywingsbgadultsteel.png,
+      licenses CC0,
+      authors bluecarrot16,DCSS authors,
+      urls httpopengameart.orgcontentdungeon-crawl-32x32-tiles,httpsopengameart.orgcontentcc0-headgear-icons,httpsopengameart.orgcontentlpc-helmets-mega-pack,httpsopengameart.orgcontentlpc-expanded-hats-facial-helmets,
+      notes 
+    },
+    {
+      fileName neckscarfred.png,
+      licenses OGA-SA 3.0,CC-BY-SA 3.0,GPL 2.0,GPL 3.0,
+      authors Nila122,Johannes Sjölund (wulax),Stephen Challener (Redshrike),
+      urls httpsopengameart.orgcontentmore-lpc-clothes-and-hair,
+      notes 
+    },
+    {
+      fileName shouldersmantalmaleorange.png,
+      licenses CC-BY-SA 3.0,
+      authors bluecarrot16,
+      urls httpsopengameart.orgcontentlpc-pirates,
+      notes 
+    },
+    {
+      fileName torsoclotheslongsleevelongsleevemalebrown.png,
+      licenses OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0,
+      authors JaidynReiman,Johannes Sjölund (wulax),
+      urls httpsopengameart.orgcontentlpc-medieval-fantasy-character-sprites,httpopengameart.orgcontentlpc-clothing-updates,
+      notes original by wulax, recolors and cleanup by JaidynReiman, further recolors by bluecarrot16
+    },
+    {
+      fileName torsojacketfrockmaleleather.png,
+      licenses CC-BY-SA 3.0,
+      authors bluecarrot16,
+      urls httpsopengameart.orgcontentlpc-pirates,
+      notes 
+    },
+    {
+      fileName torsojackettrimfrock_lapelgold.png,
+      licenses OGA-BY 3.0,
+      authors bluecarrot16,
+      urls httpsopengameart.orgcontentlpc-pirates,
+      notes 
+    },
+    {
+      fileName torsoclothesvestmalegray_striped.png,
+      licenses CC-BY-SA 3.0,GPL 3.0,
+      authors Michael Whitlock (bigbeargames),bluecarrot16,Thane Brimhall (pennomi),laetissima,
+      urls httpsopengameart.orgcontentlpc-2-characters,
+      notes 
+    },
+    {
+      fileName capesolidfemaleorange.png,
+      licenses OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0,
+      authors bluecarrot16,JaidynReiman,
+      urls httpsopengameart.orgcontentlpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more,httpsopengameart.orgcontentlpc-roman-armor,httpopengameart.orgcontentlpc-clothing-updates,
+      notes 
+    },
+    {
+      fileName capesolid_behindorange.png,
+      licenses OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0,
+      authors Nila122,JaidynReiman,
+      urls httpsopengameart.orgcontentlpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more,httpsopengameart.orgcontentlpc-roman-armor,
+      notes 
+    },
+    {
+      fileName legsarmourplatemalesteel.png,
+      licenses OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0,
+      authors bluecarrot16,JaidynReiman,Michael Whitlock (bigbeargames),Matthew Krohn (makrohn),Johannes Sjölund (wulax),
+      urls httpsopengameart.orgcontentlpc-medieval-fantasy-character-sprites,
+      notes reduced to 7 colors an adapted to v3 bases by bluecarrot16, climbjumpsitemotes by JaidynReiman
+    },
+    {
+      fileName feetshoesbasicmalebrown.png,
+      licenses OGA-BY 3.0,CC-BY-SA 3.0,GPL 3.0,
+      authors JaidynReiman,bluecarrot16,Johannes Sjölund (wulax),
+      urls httpsopengameart.orgcontentlpc-medieval-fantasy-character-sprites,httpopengameart.orgcontentlpc-clothing-updates,httpsopengameart.orgcontentlpc-expanded-socks-shoes,
+      notes original by wulax, edited for v3 base by bluecarrot16, JumpSitEmoteRunRevised Combat by JaidynReiman
+    }
+  ],
+  layers [
+    {
+      fileName capesolid_behindorange.png,
+      zPos 5,
+      parentName cape,
+      name Solid,
+      variant orange,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering
+    },
+    {
+      fileName bodybodiesmalelavender.png,
+      zPos 10,
+      parentName body,
+      name Body_color,
+      variant lavender,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash
+    },
+    {
+      fileName feetshoesbasicmalebrown.png,
+      zPos 15,
+      parentName shoes,
+      name Basic_Shoes,
+      variant brown,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash
+    },
+    {
+      fileName legsarmourplatemalesteel.png,
+      zPos 20,
+      parentName legs,
+      name Armour,
+      variant steel,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,climb,idle,jump,sit,emotes
+    },
+    {
+      fileName torsoclotheslongsleevelongsleevemalebrown.png,
+      zPos 35,
+      parentName clothes,
+      name Longsleeve,
+      variant brown,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering
+    },
+    {
+      fileName torsoclothesvestmalegray_striped.png,
+      zPos 45,
+      parentName vest,
+      name Vest,
+      variant gray striped,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering
+    },
+    {
+      fileName torsojacketfrockmaleleather.png,
+      zPos 55,
+      parentName jacket,
+      name Frock_coat,
+      variant leather,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering
+    },
+    {
+      fileName torsojackettrimfrock_lapelgold.png,
+      zPos 58,
+      parentName jacket_trim,
+      name Frock_coat_lapel,
+      variant gold,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering
+    },
+    {
+      fileName shouldersmantalmaleorange.png,
+      zPos 75,
+      parentName shoulders,
+      name Mantal,
+      variant orange,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering
+    },
+    {
+      fileName capesolidfemaleorange.png,
+      zPos 85,
+      parentName cape,
+      name Solid,
+      variant orange,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering
+    },
+    {
+      fileName neckscarfred.png,
+      zPos 90,
+      parentName neck,
+      name Scarf,
+      variant red,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering
+    },
+    {
+      fileName headheadsalienadultlavender.png,
+      zPos 100,
+      parentName head,
+      name Alien,
+      variant lavender,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash
+    },
+    {
+      fileName headfacesundefinedneutrallavender.png,
+      zPos 101,
+      parentName expression,
+      name Neutral,
+      variant lavender,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash
+    },
+    {
+      fileName eyeshumanundefinedneutralgray.png,
+      zPos 105,
+      parentName eye_color,
+      name Eye_Color,
+      variant gray,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash
+    },
+    {
+      fileName hataccessorywingsbgadultsteel.png,
+      zPos 125,
+      parentName accessory,
+      name Helmet_wings,
+      variant steel,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash
+    },
+    {
+      fileName hathelmetarmet_simpleadultsteel.png,
+      zPos 130,
+      parentName hat,
+      name Simple_Armet,
+      variant steel,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash
+    },
+    {
+      fileName hataccessorywingsfgadultsteel.png,
+      zPos 139,
+      parentName accessory,
+      name Helmet_wings,
+      variant steel,
+      supportedAnimations spellcast,thrust,walk,slash,shoot,hurt,watering,idle,jump,run,sit,emote,climb,combat,1h_slash,1h_backslash,1h_halfslash
+    }
+  ]
+}
